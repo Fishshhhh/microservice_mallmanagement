@@ -1,0 +1,5 @@
+FROM java:8-jre
+MAINTAINER sx
+ADD ./target/microservice-gateway-zuul-0.0.1-SNAPSHOT.jar /app/microservice-gateway-zuul.jar
+CMD ["java", "-Xmx200m", "-jar", "/app/microservice-gateway-zuul.jar"]
+EXPOSE 8050

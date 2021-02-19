@@ -1,0 +1,6 @@
+/home/songxue/microservice_mallmanagerment/microservice-userservice/src/main/java/com/springcloud/po/User.java
+/home/songxue/microservice_mallmanagerment/microservice-userservice/src/main/java/com/springcloud/UserApplication.java
+/home/songxue/microservice_mallmanagerment/microservice-userservice/src/main/java/com/springcloud/config/SwaggerConfiguration.java
+/home/songxue/microservice_mallmanagerment/microservice-userservice/src/main/java/com/springcloud/dao/UserMapper.java
+/home/songxue/microservice_mallmanagerment/microservice-userservice/src/main/java/com/springcloud/controller/UserController.java
+/home/songxue/microservice_mallmanagerment/microservice-userservice/src/main/java/com/springcloud/po/Order.java
